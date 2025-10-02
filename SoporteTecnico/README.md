@@ -14,5 +14,11 @@ En esta sección encontrarás ejemplos prácticos de mis conocimientos en **Sopo
 📸 Aquí iré subiendo **capturas de pantalla y guías** de casos resueltos:
 - Configuración de red en Windows.  
 - Conexión de impresora.  
-- Instalación de un programa.  
+- Instalación de un programa.
+
+Caso práctico: Configuración de red en Windows 11
+
+Estado inicial – sin conexión. 
+
+
 
