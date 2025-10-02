@@ -17,7 +17,7 @@ En esta sección encontrarás ejemplos prácticos de mis conocimientos en **Sopo
 Caso práctico: Configuración de red en Windows 11
 
 Estado inicial – sin conexión.
-
+ ![Evidencia de configuración de red] https://github.com/sebastianbqz/Portafolio-Soporte-TI/blob/main/SoporteTecnico/Captura%20de%20pantalla%202025-10-01%20195600.png?raw=true
 
 
 
