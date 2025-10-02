@@ -6,7 +6,7 @@ Mi objetivo es desarrollarme como **Soporte Nivel 1, Asistente TI o Help Desk**.
 ###  Soporte Técnico
 - Instalación y configuración de software (Office, antivirus, drivers).  
 - Solución de problemas comunes en Windows (impresoras, red, acceso).  
-- Comandos básicos de diagnóstico (`ping`, `ipconfig`, `tracert`).  
+- Comandos básicos de diagnóstico " ping, ipconfig, tracert".  
 
 ###  Redes
 - Configuración de IP estática/dinámica.  
