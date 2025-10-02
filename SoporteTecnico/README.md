@@ -18,7 +18,8 @@ En esta sección encontrarás ejemplos prácticos de mis conocimientos en **Sopo
 
 Caso práctico: Configuración de red en Windows 11
 
-Estado inicial – sin conexión. 
+Estado inicial – sin conexión.
+
 
 
 
